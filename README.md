@@ -1,10 +1,19 @@
-# 👋 Hi there, I'm Jay Mamidi
+ # 👋 Hi, I'm M Jayasai
 
-🚀 Aspiring DevOps Engineer | Cloud | CI/CD | Docker | Linux
+🎯 **Senior DevOps Engineer** | ☁️ Cloud Infrastructure | ⚙️ Automation | 🚀 CI/CD | 🐳 Containers | Linux | Kubernetes | Terraform
 
-I’m currently building DevOps projects to practice automation, infrastructure as code, and monitoring!
+## 🚀 About Me
 
----
+I'm a passionate and results-driven **DevOps Engineer** with over **6 years of experience** in building and optimizing modern cloud-native infrastructure across **AWS** and **Azure**. My goal is to deliver scalable, secure, and highly available systems that enhance product velocity and reliability.
+
+I specialize in:
+
+- Automating infrastructure with **Terraform** and **Ansible**
+- Building robust **CI/CD pipelines** with Jenkins, GitLab, and Azure DevOps
+- Managing containerized workloads with **Docker** and **Kubernetes (EKS/AKS)**
+- Cloud monitoring and cost optimization
+- Enabling smooth developer experience through scalable DevOps solutions
+
 
 ## 🛠️ Skills & Tools
 - ☁️ **Cloud**: AWS (EC2, S3, IAM)
@@ -16,8 +25,6 @@ I’m currently building DevOps projects to practice automation, infrastructure 
 ---
 
 ## 📦 Featured Projects
-| Project | Description |
-|--------|-------------|
 | [CI/CD Pipeline](https://github.com/jaymamidi/devops-cicd-pipeline) | Automated CI/CD with GitHub Actions & Docker |
 | [Dockerized App](https://github.com/jaymamidi/docker-node-app) | Node.js app containerized with Docker Compose |
 | [Monitoring Stack](https://github.com/jaymamidi/monitoring-stack) | Prometheus + Grafana for system metrics |
@@ -25,5 +32,5 @@ I’m currently building DevOps projects to practice automation, infrastructure 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 💼www.linkedin.com/in/mamidi-jayasai-35a011306
+- 📧 mamidijaysai@gmail.com
