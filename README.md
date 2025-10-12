@@ -32,5 +32,5 @@ I specialize in:
 ---
 
 ## 📫 Connect with Me
-- 💼www.linkedin.com/in/mamidi-jayasai-35a011306
+- 💼www.linkedin.com/in/mamidi-jayasai
 - 📧 mamidijaysai@gmail.com
