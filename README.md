@@ -2,14 +2,14 @@
 
 🎯 **Senior DevOps Engineer** | ☁️ Cloud Infrastructure | ⚙️ Automation | 🚀 CI/CD | 🐳 Containers | Linux | Kubernetes | Terraform
 
-## 🚀 About Me
+ About Me
 
-I'm a passionate and results-driven **DevOps Engineer** with over **6 years of experience** in building and optimizing modern cloud-native infrastructure across **AWS** and **Azure**. My goal is to deliver scalable, secure, and highly available systems that enhance product velocity and reliability.
+I'm a passionate and results-driven **DevOps Engineer** with over **6 years of experience** in building and optimizing modern cloud-native infrastructure across **AWS** and **Azure**. My goal is to deliver scalable, secure and highly available systems that enhance product velocity and reliability.
 
 I specialize in:
 
 - Automating infrastructure with **Terraform** and **Ansible**
-- Building robust **CI/CD pipelines** with Jenkins, GitLab, and Azure DevOps
+- Building robust **CI/CD pipelines** with Jenkins, GitLab and Azure DevOps
 - Managing containerized workloads with **Docker** and **Kubernetes (EKS/AKS)**
 - Cloud monitoring and cost optimization
 - Enabling smooth developer experience through scalable DevOps solutions
